@@ -1,0 +1,29 @@
+
+
+#Openfile{
+    -fx-background-image: url("../Images/Openfolder.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#playbutton{
+    -fx-background-image: url("../Images/play.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#pausebutton{
+    -fx-background-image: url("../Images/pause.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
+
+#stopbutton{
+    -fx-background-image: url("../Images/stop.png");
+    -fx-background-size: 20 20;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+}
